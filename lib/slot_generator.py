@@ -52,7 +52,7 @@ Please keep this slot available for a developer interview or telephone sift, and
 
 If you cannot attend, please contact the recruitment team (Daniel Wilson or Khaitan Samji) to let them know. Only do this if you really cannot attend: recruitment is a priority for GDS, so we expect you to make reasonable efforts to attend interviews in priority over other activities. Please keep your calendar up to date; we will try to avoid conflicts when booking the meetings, so its easier for everyone if you do this.
 
-If you haven't been on an interview panel for these roles before, please contact the chair of this interview, or if that fails Richard Boulton, for an introduction to the process.
+If you haven't been on an interview panel for these roles before, please contact the chair of this interview, or if that fails Tom Natt, for an introduction to the process.
 
 Slots are for 2.5 hours, but you may not be required for the full time. For face to face interviews, the chair and one other interviewer are required for the first 60 minutes: the third member will join after 60 minutes to complete the panel.
 
