@@ -48,17 +48,31 @@ class Slot(object):
             "description": """
 Chair: {}
 
-Please keep this slot available for a developer interview or telephone sift, and confirm your ability to attend now by accepting this invitation.
+DEVELOPER INTERVIEW SLOT
 
-If you cannot attend, please contact the recruitment team (Daniel Wilson or Khaitan Samji) to let them know. Only do this if you really cannot attend: recruitment is a priority for GDS, so we expect you to make reasonable efforts to attend interviews in priority over other activities. Please keep your calendar up to date; we will try to avoid conflicts when booking the meetings, so its easier for everyone if you do this.
+This is a slot for a developer onsite or telephone interview. This slot has been generated from the list of volunteers and has been selected based on your calendar.
 
-If you haven't been on an interview panel for these roles before, please contact the chair of this interview, or if that fails Tom Natt, for an introduction to the process.
+Please confirm your ability to attend now by accepting this invitation.
 
-Slots are for 2.5 hours, but you may not be required for the full time. For face to face interviews, the chair and one other interviewer are required for the first 60 minutes: the third member will join after 60 minutes to complete the panel.
+Recruitment is a priority for GDS, so we expect you to make reasonable efforts to attend interviews as a priority over other activities.
 
-You will receive a calendar invitation from JobVite closer to the time with details of the interview (or if we're not able to schedule one in the slot, the people team will update the calendar invitiation to indicate that the slot is not being used).
+If you really cannot attend, please follow the rearranging interviews process: https://docs.google.com/document/d/1xW8jsK4Cb5MP9mgzZxzgYWzpfJVl_ABpRLliCEr5NcU/edit?usp=sharing
 
-Also, if you haven't completed at least the unconscious bias e-learning, now's a good time to do so. You must complete this before participating on a panel, and it only takes about 30 minutes. See https://civilservicelearning.civilservice.gov.uk/learning-opportunities/unconscious-bias-e-learning
+Please keep your calendar up to date; we will try to avoid conflicts when booking the meetings, so it's easier for everyone if you do this.
+
+INTERVIEW FORMAT
+
+Slots are for 2.5 hours, but you may not be required for the full time.
+
+For the face to face interviews, the chair and one other interviewer are required for the first 60 minutes: the third member will join after 60 minutes to complete the panel.
+
+You will receive a calendar invitation from Jobvite closer to the time with details of the interview.
+
+INTERVIEW TRAINING
+
+If you haven't completed at least the unconscious bias e-learning, now's a good time to do so. It only takes about 30 minutes. See https://civilservicelearning.civilservice.gov.uk/learning-opportunities/unconscious-bias-e-learning
+
+If you haven't been on an interview panel for these roles before, please contact the chair of this interview, or if that fails Daniel Wilson or Tom Natt, for an introduction to the process.
 
             """.strip().format(
                 self.people()[0].name,
